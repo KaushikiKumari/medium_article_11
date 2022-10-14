@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Medium Article 11',
+      title: 'Medium Article 11 Helper',
       debugShowCheckedModeBanner: false,
       home: AwesomeBottomBar(),
     );
